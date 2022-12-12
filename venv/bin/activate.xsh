@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/xusan/PycharmProjects/API/ToDo_for_Beginner/venv"
+$VIRTUAL_ENV = r"/home/xusandev/Templates/ProgrammingProjects/PycharmProjects/Git/TodoList/venv"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]

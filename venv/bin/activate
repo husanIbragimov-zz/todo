@@ -46,7 +46,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV='/home/xusan/PycharmProjects/API/ToDo_for_Beginner/venv'
+VIRTUAL_ENV='/home/xusandev/Templates/ProgrammingProjects/PycharmProjects/Git/TodoList/venv'
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
